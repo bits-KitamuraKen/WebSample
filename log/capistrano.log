@@ -1,0 +1,17 @@
+# Logfile created on 2018-03-20 14:28:38 +0900 by logger.rb/53141
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-20 14:28:38 +0900 cap production custom:start
+  INFO ---------------------------------------------------------------------------
+  INFO [78314255] Running touch hello.txt as admin@176.34.16.220
+ DEBUG [78314255] Command: touch hello.txt
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-20 14:34:07 +0900 cap production custom:start
+  INFO ---------------------------------------------------------------------------
+  INFO [6560dabf] Running touch hello.txt as admin@176.34.16.220
+ DEBUG [6560dabf] Command: touch hello.txt
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-20 15:00:03 +0900 cap production custom:start
+  INFO ---------------------------------------------------------------------------
+  INFO [07a55342] Running touch hello.txt as admin@176.34.16.220
+ DEBUG [07a55342] Command: touch hello.txt
+  INFO [07a55342] Finished in 0.281 seconds with exit status 0 (successful).
